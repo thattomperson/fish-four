@@ -1,5 +1,5 @@
 function _four_install --on-event four_install
-  set --universal --export --global set PROJECTS_DIR /opt/vhosts;
+  set --universal --export set PROJECTS_DIR /opt/vhosts;
   # Set universal variables, create bindings, and other initialization logic.
 end
 
