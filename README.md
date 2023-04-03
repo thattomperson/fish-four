@@ -1,11 +1,10 @@
-<img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
+<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" align="left" width="144px" height="144px"/>
 
 #### four
-> A plugin for [Oh My Fish][omf-link].
+> A plugin for [Fisher][fisher-link].
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v3.0.0-007EC7.svg?style=flat-square)](https://fishshell.com)
-[![Oh My Fish Framework](https://img.shields.io/badge/Oh%20My%20Fish-Framework-007EC7.svg?style=flat-square)](https://www.github.com/oh-my-fish/oh-my-fish)
 
 <br/>
 
@@ -13,7 +12,7 @@
 ## Install
 
 ```fish
-$ omf install four
+$ fisher install thattomperson/four.fish
 ```
 
 
@@ -30,8 +29,8 @@ $ four
 
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/plugin-four/graphs/contributors
-[omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
+[author]:         https://github.com/thattomperson
+[contributors]:   https://github.com/thattomperson/four.fish/graphs/contributors
+[fisher-link]:    https://github.com/jorgebucaran/fisher
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
